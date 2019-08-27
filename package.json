@@ -1,5 +1,5 @@
 {
-  "name": "extension-closed-captioning",
+  "name": "closed-captioning-twitch-extension",
   "version": "1.0.0",
   "description": "Closed Captioning Twitch Extension",
   "main": "index.js",
