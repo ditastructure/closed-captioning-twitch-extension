@@ -1,3 +1,5 @@
+![Logo](https://cdn.glitch.com/08650d2e-f616-4fad-88a6-3706fa068ded%2Fcc-logo.jpg?v=1566854489647)
+
 # Closed Captioning Twitch Extension
 
 Improve the accessibility and inclusivity of your stream by providing viewers with closed captioning. Add this extension to your stream and sign into the companion site to get started. Closed captioning benefits everyone 🤗 regardless of whether they have an impairment, disability, or situational limitation (e.g., hearing impairment or watching on mobile). Give it a try!
