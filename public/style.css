@@ -1,0 +1,11 @@
+a {
+  color: #cc3399;
+}
+
+.theme-dark {
+  color: #fff;
+}
+
+.theme-dark a {
+  color: #cc99ff
+}
